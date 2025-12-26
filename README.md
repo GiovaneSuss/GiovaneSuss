@@ -29,28 +29,39 @@ Preparação e curadoria de bases de dados, treinamento e fine-tuning de redes n
 
 ## 🧰 Tecnologias & Ferramentas
 
-**Linguagens**  
-Python • SQL  
+### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-**IA & Machine Learning**  
-LLMs • RAG • LlamaIndex • LangChain • HuggingFace • Tensorflow • Docling/Markitdown
+### IA & Machine Learning
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=flat)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5A67D8?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-2B6CB0?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-**Backend & Dados**  
-FastAPI • PostgreSQL • DynamoDB • Qdrant  
+### Backend & Dados
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=flat)
 
-**Cloud & DevOps**  
-AWS • Docker • Terraform • CI/CD  
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Giovane's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact)
+![Giovane's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaneSuss&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaneSuss&layout=compact)
 
 ## 📫 Vamos conversar!
 
-🔗 LinkedIn: www.linkedin.com/in/giovane-beck-suss-987873273  
-📧 Email: giovane.b.suss@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/giovane-beck-suss-987873273)
 
 > *"Construindo sistemas inteligentes com base sólida em dados e modelos."*

@@ -57,17 +57,17 @@ Preparação e curadoria de bases de dados, treinamento e fine-tuning de redes n
 
 ## 📈 GitHub Stats
 
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=GiovaneSuss&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaneSuss&layout=compact&langs_count=8&cache_seconds=1800"
-/>
+![Giovane's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaneSuss&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaneSuss&layout=compact&theme=radical)
 
 ## 📫 Vamos conversar!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/giovane-beck-suss-987873273)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=GiovaneSuss&color=blue)
+
+---
 
 > *"Construindo sistemas inteligentes com base sólida em dados e modelos."*
